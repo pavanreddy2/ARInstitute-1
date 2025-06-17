@@ -12,8 +12,6 @@ public class LocalVariable {
     //static Variable
     static int i = 200;
 
-    //static Variable
-    static float f;
     public static void main(String[] args) {
 
         //Local Variable
@@ -28,8 +26,5 @@ public class LocalVariable {
         System.out.println(ref.k);
 
         //System.out.println(j);
-
-
-        System.out.println(f);
     }
 }
